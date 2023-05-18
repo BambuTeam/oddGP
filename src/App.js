@@ -1,9 +1,12 @@
 
 import './App.css';
+import './page/Odd';
+
+
 
 function App() {
   return (
-    <h1>HELLO</h1>
+    <Odd />
   );
 }
 
